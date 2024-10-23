@@ -1,6 +1,6 @@
 # Bystander-Detection
 
-Welcome to the repository for our bystander detection project! We provide the code, models, and datasets used in the paper 'An Analysis of Privacy Leakage from Real-World Facial Images on Twitter and Associated User Behaviors' (accepted at CSCW 2024). A link to the paper will be added once it is published.
+Welcome to the repository for our bystander detection project! We provide the code, models, and datasets used in the paper 'An Analysis of Privacy Leakage from Real-World Facial Images on Twitter and Associated User Behaviors'. A link to the paper will be added once it is published.
 
 ## Directory Structure
 
@@ -27,7 +27,7 @@ The repository contains the following main directories:
 
 - Several models exceed GitHub's 50MB file size limit. To access the full code and models, please download them via the links provided in the feature and net folders.
 - Our paper includes four datasets. The images in Dataset1 and Dataset2b are sourced from publicly available datasets or platforms where data can be collected. We provide the complete set of images for these two datasets. You can download them using the links in the Dataset folder.
-- Dataset2a and Dataset3 consist of real user photos from social media. In accordance with the Ethics Review Committee guidelines of Shanghai Jiao Tong University, these datasets are not publicly available. If you require access, please contact niuyuqi@sjtu.edu.cn to request information on how to build these datasets.
+- Dataset2a and Dataset3 consist of real user photos from social media. In accordance with the Ethics Review Committee guidelines of our institute, these datasets are not publicly available. If you require access, please contact us to request information on how to build these datasets.
 
 ## Contributing
 
