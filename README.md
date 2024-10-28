@@ -38,7 +38,7 @@ If you have suggestions or wish to contribute code, please submit a Pull Request
 For any questions or need assistance, please reach out through the following channels:
 
 - Create an Issue
-- Email us
+- Email us (Our contact email will be provided at a later date.)
 - Visit our coming website
 
 ---
