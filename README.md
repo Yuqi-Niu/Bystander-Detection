@@ -1,6 +1,6 @@
 # Bystander-Detection
 
-Welcome to the repository for our bystander detection project! We provide the code, models, and datasets used in the paper 'An Analysis of Privacy Leakage from Real-World Facial Images on Twitter and Associated User Behaviors'. A link to the paper will be added once it is published.
+Welcome to the repository for our bystander detection project! We provide the code, models, and datasets used in developing bystander-subject classifier. 
 
 ## Directory Structure
 
